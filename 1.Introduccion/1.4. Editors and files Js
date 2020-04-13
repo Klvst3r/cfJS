@@ -1,0 +1,69 @@
+Posibles Editores
+Bloc de notas
+Ato, Sublime Tet Brakets
+Web Stor y netbeans que ya son IDE
+
+No se recomienda si se esta iniciando
+
+Para esta recomendacion sera Atom
+
+File
+	New File
+	Save
+		Folder
+			Save File
+
+Extention .js
+
+Es necesario que sea a traves de un archivo con HTML
+
+newFile
+	primero.html
+
+Enlazamos HTML con JS mediante 
+
+<script src="primero.js"><script>
+
+Esto indica que debe invocar el archivo js y ejecutarlo
+
+html file
+
+show in finder
+o 
+explorer de windows y buscar el archivo
+Execute
+
+el Js
+
+en el navegador
+CTRL + SHIFT + I
+
+En la pestaña de consola
+
+
+Editor de codigo en linea 
+
+Codepen
+code picknic 
+jsbin
+
+
+JS bin
+
+jsbin.com
+
+Pestañas habiliytadas
+Javascript	console	Autput
+
+Escribir instrucciones de codigo
+
+Js
+	console.log("Hola a todos desde JS");
+
+Para ver el codigo
+	Run with Js
+
+La diferencias es que puedes hacer el trabajo con multiples lineas
+
+Asi no se tendra que configurar o hacer modificaciones en la computadora.
+
