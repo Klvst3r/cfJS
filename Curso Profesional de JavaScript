@@ -1,0 +1,108 @@
+Curso Profesional de JavaScript
+
+Temario:
+
+
+1.- Introducción
+    Introducción
+    Que cubriremos en el curso
+    Cómo ejecutar código de javaScript
+    Editor de texto y archivos Javascript
+    Donde puedo investigar más
+    Configurar entorno de trabajo - Windows
+    Imprimir datos
+    Configurando entorno de trabajo - Mac
+    Recibir datos
+
+
+2.- Conceptos básicos
+    Como es javaScript técnicamente
+    Variables y constantes
+    Números y operaciones aritméticas
+    Booleanos
+    Operadores de comparación
+    Operadores lógicos
+    Condiciones
+    Ciclos
+    Undefined, null y nan
+    Resumen de unidad- Conceptos básicos
+    Ejercicios primer bloque - Curso JavaScript Profesional
+
+
+3.- Funciones y el Scope
+    Declaración de funciones
+    Qué es el scope
+    Cuando usar let, const y var
+    Argumentos a funciones
+    Funciones anónimas
+    El contexto
+    Arrow functions
+    Arrow functions y el contexto
+    Call Apply y Bind
+    Resumen de unidad - Funciones y el scope
+
+
+4.- Arreglos
+    Arreglos y sus usos
+    Recorrer un arreglo
+    Métodos y operaciones sobre arreglos
+
+
+5.- Objetos
+    Declarar un objeto con JSON
+    Funciones constructoras
+    Clases
+    Constructor
+    Herencia
+    Métodos accesores
+    Métodos estáticos
+    Prototipos
+    __proto__
+    Herencia de prototipos
+    La propiedad del prototype
+    Resumen de unidad- Objetos
+
+
+6.- Programación asíncrona
+    Qué es la programación asíncrona
+    CallBacks
+    Promesas
+    Crear mis propias promesas
+    Resolver multiples promesas
+    Encadenar promesas
+    Resumen de unidad- Programación asíncrona
+
+
+7.- Bonus points
+    Spread Operator
+    For of y For in
+
+8.- Async/Await
+    Funciones asíncronas
+    Async
+    Await
+    Manejar errores en promesas
+
+
+9.- Módulos
+    Módulos en JavaScript
+    Por qué son importantes los módulos
+    Trabajando con módulos
+    Valores por defecto
+    ReadOnly imports
+
+
+10.- Generadores e Iteradores
+    Generadores e Iteradores
+    Iteradores
+    Generadores
+    Return en funciones generadoras
+    Delegar generadores
+    Dónde se usan los generadores
+    Símbolos en JavaScript
+    Manejo de símbolos
+    Iterables con iteradores
+    Iterables y generadores
+
+
+11.- Examen del curso 
