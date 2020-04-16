@@ -1,0 +1,24 @@
+1.9.Recibir datos
+
+Leer datos ya que la programacion en el sentido mas simple de las cosas se trata de recibir algo, procesarlo y convertirlo en un resultado.
+
+Una suma por ejemplo 
+
+Recibimos dos valores, realizamos la operacion y devilvemos un resultado.
+
+Los datos pueden provenir de diversas fuentes, un formulario, una BD, un servicio web, etc.
+
+Con un metodo promt podemos recibir datos desdde el usuario.
+
+Pestaña Consola
+
+promt();
+
+Desplegara un campo de captura de texto.
+
+En la consola se desplegaran los datos.
+
+La funcion promt da como resultado aquello que se haya escrito.
+
+Ya con el dato lo podemos almacenar por ejemplo en una variable.
+
