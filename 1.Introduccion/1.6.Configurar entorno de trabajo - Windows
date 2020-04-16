@@ -1,0 +1,89 @@
+1.6.Configurar entorno de trabajo - Windows
+
+Una parte importante es preparar el entorno de trabajo.
+
+Navehador Google Chrome como recomendación, aunque se puede utilizar Otro agente de usuario
+
+Atom
+
+https://atom.io
+
+1. Descargar si estamo en Windows la version que recomienda el navegador.
+
+Atom esta creado con Js mediante una herramienta llamada Electron
+
+2. Inicioa la configuracion del Asistente.
+
+3. Abrir Atom
+
+Al abrir el archivo en la parte inferior del programa debe estar seleccionado el lenguaje JS.
+
+Hay extensiones para hacer mas potente la herramienta.
+
+Adicionalmente sera necesario utilizar NodeJs
+
+Descargar desde:
+
+https://nodejs.org/en/
+
+Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+
+Download for Windows (x64)
+12.16.2 LTS
+Recommended For Most Users
+Other Downloads  Changelog  API Docs
+ 
+13.13.0 Current
+Latest Features
+Other Downloads  Changelog  API Docs
+Or have a look at the Long Term Support (LTS) schedule.
+
+Para conocer las novedades mas recientes utilizaremos la ultima version. Al 15 de abril de 2020 se encuentra la version 13.13.0 y la recomendada es 12.16.2 LTS
+
+4. Utilizaremos la ultima version:
+
+13.13.0
+
+5. Iniciar el asistente
+
+6. Licencia de usuario final
+
+7. Determinar la ruta de instalación.
+
+8. En la seccion de configuración instalación
+
+	hacer click en la opcion
+		Add to PATH
+			(Will be installed on local hard drive)
+
+
+El instalador agregará las "Herramientas para Módulos Nativos"
+
+estos seran necesarios para compilar, y se agregaran herramientas para Python o Visual Studio.
+
+El path es la ruta donde se le indica al sistema operativo enq ue carpetas se encuentran los programas que se van a utilizar desde la terminal desde el sistema operativo.
+
+A esa variable se le agregara la ruta donde estaran los programas que se usaran desde la consola de comandos, ya que es una practica comun de programación.
+
+Una vez finalizada vamos a corroborarlo
+
+CTRL + R
+	cmd
+
+Ejecutar:
+
+	node
+
+	exit()
+
+	CTRL + C
+
+Para saber la verion de node
+
+	node -v
+
+Es necesario tambien contar con el programa npm
+
+	npm -v
+
+Una vez que tenemos Atom, Node y NPM estamos listos para trabajar.
