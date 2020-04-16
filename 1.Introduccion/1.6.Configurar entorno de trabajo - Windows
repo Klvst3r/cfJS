@@ -65,6 +65,28 @@ El path es la ruta donde se le indica al sistema operativo enq ue carpetas se en
 
 A esa variable se le agregara la ruta donde estaran los programas que se usaran desde la consola de comandos, ya que es una practica comun de programación.
 
+
+Using this script downloads third party software
+------------------------------------------------
+This script will direct to Chocolatey to install packages. By using
+Chocolatey to install a package, you are accepting the license for the
+application, executable(s), or other artifacts delivered to your machine as a
+result of a Chocolatey install. This acceptance occurs whether you know the
+license terms or not. Read and understand the license terms of the packages
+being installed and their dependencies prior to installation:
+- https://chocolatey.org/packages/chocolatey
+- https://chocolatey.org/packages/python
+- https://chocolatey.org/packages/visualstudio2017-workload-vctools
+
+This script is provided AS-IS without any warranties of any kind
+----------------------------------------------------------------
+Chocolatey has implemented security safeguards in their process to help
+protect the community from malicious or pirated software, but any use of this
+script is at your own risk. Please read the Chocolatey's legal terms of use
+as well as how the community repository for Chocolatey.org is maintained.
+
+Press any key to continue . . .
+
 Una vez finalizada vamos a corroborarlo
 
 CTRL + R

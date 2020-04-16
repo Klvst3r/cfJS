@@ -1,0 +1,28 @@
+1.7.Imprimir datos
+
+Para trabajar con Js de inicio realizaremos nuestro primer script
+
+Con un Script mediante la consola para ejecutar mediante una consola.
+
+En el navegador.
+	Abrir la consola	
+
+Para acceder a las herramientas de desarrollador usanto:
+ ALT - COMMAND + I en Mac
+ CTRL - Shift + I Windows / Linux
+
+O click derecho inspeccionar elemento en la pestaña de la consola seleccionada.
+
+console.log("Hola ");
+
+
+console.log
+
+console.log("Klvst3r");
+
+La salida podra ser Hola klvst3r
+
+Ya que Js interpreta la salida como un objeto y contiene una cadena.
+
+Que sera la salida de los programas.
+
