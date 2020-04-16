@@ -1,0 +1,56 @@
+1.8.Configurando entorno de trabajo - Mac
+
+Una parte importante es la configuracion del entorno de trabajo.
+
+Con Atom escribiremos el codigo, al igual que en otras plataformas tambien debemos de saber configurar el entorno de trabajo para Mac.
+
+Descargamos desde la pagina de Atom
+
+https://atom.io
+
+Una vez descargada la aplicacion
+
+Solo devemos arrastrar la aplicacion hacia la carpeta de Applications
+
+Ademas de Atom debemos de contar con NodeJS
+
+Que es un entonrno de ejecucion que no necesita un navegador.
+
+https://nodejs.org/en/
+
+hacemos doble click para iniciar le instalador.
+
+Aceptamos la licencia de uso
+
+Seleccionamos el destino
+
+Seleccionar la opcion instalacion para todos los usuarios
+
+Colocamos las credenciales
+
+Las rutas donde se instalaran los programas sera:
+	
+Node.js
+/usr/local/bin/node
+
+npm
+/usr/local/bin/npm
+
+Asegurando que 
+/usr/local/bin
+este en el $PATH
+
+La variable de PATH
+
+Que es una variable donde se almacenan muchas variables donde indicamos que el sistema debe buscar los programas ahi para ajecutarse desde la terminal.
+
+Para corroborar en la terminal:
+
+$ node -v
+
+Al igual 
+
+$ npm -v
+
+npm es un manejador de paquetes con el que podremos descargar librerias necesarias para trabajar.
+
