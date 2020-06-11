@@ -1,0 +1,37 @@
+Instalación en Linux Ubuntu y Mac
+
+Para instalar en Linux Ubuntu:
+
+-Instalar node y TypeScript: Para ello ejecutamos los siguientes comandos en la terminal:
+
+        sudo apt install curl
+         
+        curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -
+         
+         
+        curl -sL https://deb.nodesource.com/setup_8.x | sudo bash -
+         
+        sudo apt install nodejs
+         
+        sudo npm install -g typescript
+
+
+Para instalar en Mac:
+
+-Instalar node:
+
+1- La instalación es muy parecida a la de Windows (seguir los pasos del video anterior)
+
+2- También tienes la opción de utilizar Homebrew, abre tu terminal y ejecuta el siguiente comando
+
+    brew install node
+
+Nota: Si no tienes Homebrew, debes instalarlo primero con este comando
+
+    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+-Instalar typescript.
+
+    sudo npm install -g typescript
+
+
